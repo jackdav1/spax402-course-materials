@@ -14,7 +14,7 @@
 3. Write Bayes' theorem for P(H | D), and label each of the four quantities in it with the
    name the deck used.
 
-4. Same five heads, but the coin came from a magic shop. Which of the p-value, the
+4. Same five heads, but you found the coin on the floor of a magic shop. Which of the p-value, the
    likelihoods, the prior and the posterior change, and which stay the same?
 
 5. In Excel, `=NORM.DIST(3.22, 4.66, 0.93, TRUE)` and `=NORM.DIST(3.22, 4.66, 0.93, FALSE)`
