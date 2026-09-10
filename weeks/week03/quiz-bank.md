@@ -7,8 +7,9 @@
    against a fair coin is 0.03125. Say in one sentence what that number is the probability
    of, and in a second sentence what it is not the probability of.
 
-2. Define a prior in your own words, then name the prior in this question: "Given that my
-   star pitcher gave up ten runs in a game, how likely is it that he is hurt?"
+2. A QB drafted in the 7th round throws for 5 TDs and 0 INTs in their first game. The fans
+   are saying the club found a hall-of-famer. You want to answer how likely that is. What
+   would the prior be?
 
 3. Write Bayes' theorem for P(H | D), and label each of the four quantities in it with the
    name the deck used.
