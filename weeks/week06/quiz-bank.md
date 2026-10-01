@@ -19,7 +19,7 @@
 4. Explain what an interaction term lets a model say that the model without it cannot. If its
    coefficient comes out negative, are the two variables synergistic or antagonistic, and what
    does that say about having both compared with the sum of each alone? Give an example from
-   basketball.
+   any sport.
 
 5. A variable has four categories. How many dummy variables go into the regression, what is the
    reference category, and what does each dummy's coefficient measure?
