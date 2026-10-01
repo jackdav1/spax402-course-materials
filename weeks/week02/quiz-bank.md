@@ -11,7 +11,7 @@
    your answer.)
 
 3. In Excel, `=BINOM.DIST(8, 10, 0.9, FALSE)` and `=BINOM.DIST(8, 10, 0.9, TRUE)` return
-   different numbers. Say what each one answers, and which you would use for "at least 8 of 10."
+   different numbers. What does each one answer, and which would you use for "at least 8 of 10"?
 
 4. Two hitters finished at .331 and .311 on roughly 550 at bats each, and their 95% intervals
    overlap across most of their width. What can you tell a general manager about which hitter is
