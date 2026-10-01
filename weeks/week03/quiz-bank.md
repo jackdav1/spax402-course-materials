@@ -4,8 +4,8 @@
      No answer key lives in this repo — understanding is the answer key. -->
 
 1. A quarter you found on the sidewalk comes up heads five times in a row. The p-value
-   against a fair coin is 0.03125. Say in one sentence what that number is the probability
-   of, and in a second sentence what it is not the probability of.
+   against a fair coin is 0.03125. What is that number the probability of, and what is it
+   not the probability of?
 
 2. A QB drafted in the 7th round throws for 5 TDs and 0 INTs in their first game. The fans
    are saying the club found a hall-of-famer. You want to answer how likely that is. What
@@ -18,8 +18,8 @@
    likelihoods, the prior and the posterior change, and which stay the same?
 
 5. In Excel, `=NORM.DIST(3.22, 4.66, 0.93, TRUE)` and `=NORM.DIST(3.22, 4.66, 0.93, FALSE)`
-   return different numbers. Say what question each one answers about a running back who
-   is averaging 3.22 yards a carry against a career 4.66.
+   return different numbers. What question does each one answer about a running back who
+   is averaging 3.22 yards a carry against a career 4.66?
 
 6. A hitter with a career .260 average hits .350 in April. His teammate, a career .295
    hitter, hits .350 in the same number of at bats. Whose April is stronger evidence that
