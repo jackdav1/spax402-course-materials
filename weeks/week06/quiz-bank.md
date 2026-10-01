@@ -7,9 +7,10 @@
    those minutes squared. The coefficient on the squared term is positive. How does the
    points gained from one more minute at 10 minutes compare with one more minute at 20?
 
-2. A quadratic fit of a player's output on his ice time bottoms out at eight minutes and climbs
-   below that. What three things should decide whether you keep the curve, change the degree,
-   or change the model?
+2. You fit a quadratic of NHL forwards' points per game on average minutes on ice. The curve
+   bottoms out at 8 minutes, so it predicts more points for a player at 4 minutes than for one
+   at 8. Name the three checks you would run before keeping this curve, and what result of each
+   would make you drop it.
 
 3. Two combine prospects weigh 165 and 341 pounds. Explain how a regression of 40 time on
    weight lets you say which one is faster for his size, and how you would turn that into a
