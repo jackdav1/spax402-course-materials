@@ -16,8 +16,8 @@
    deviations. Why can't you compare their raw SDs to say which stat varies most, and what do
    you compute instead?
 
-4. A team's standardized entropy on 3rd-and-short is 0.31. Say what that means in plain English
-   to a coach, and describe what a team at 1.0 would be doing.
+4. A team's standardized entropy on 3rd-and-short is 0.31. What does that tell a coach about
+   how predictable the team is, and what would a team at 1.0 be doing?
 
 5. You plot a league's FG% distribution and it's clearly bimodal. What does that usually tell
    you about the data, and what would you do before computing a single league-wide average?
