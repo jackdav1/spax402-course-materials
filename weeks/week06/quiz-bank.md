@@ -19,5 +19,6 @@
 4. A variable has four categories. How many dummy variables go into the regression, what is the
    reference category, and what does each dummy's coefficient measure?
 
-5. Players who get more minutes score more per game. Why does that curve not tell a coach what
-   would happen if he gave a bench player more minutes?
+5. Forwards who play more minutes score more per game, and they also score more per minute.
+   Why does that curve not tell a coach what would happen if he gave a bench player more
+   minutes?
