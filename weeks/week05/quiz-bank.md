@@ -3,11 +3,11 @@
 <!-- /quiz-me asks these plus one dynamic question generated from your own work.
      No answer key lives in this repo — understanding is the answer key. -->
 
-1. In a regression of second-half wins on first-half wins, say in one sentence each what
-   the slope, the intercept and a residual mean.
+1. In a regression of second-half wins on first-half wins, what do the slope, the intercept
+   and a residual each mean?
 
-2. Say the null hypothesis out loud for a regression coefficient, then explain what the
-   p-value beside it is the probability of. Use the word "if."
+2. What is the null hypothesis for a regression coefficient, and what is the p-value beside
+   it the probability of? Use the word "if."
 
 3. Your agent tests twenty predictors of wins and reports the one that came out significant.
    What is wrong with that, and what would you ask it to show you instead?
