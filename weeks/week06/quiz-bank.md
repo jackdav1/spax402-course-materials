@@ -3,8 +3,9 @@
 <!-- /quiz-me asks these plus one dynamic question generated from your own work.
      No answer key lives in this repo — understanding is the answer key. -->
 
-1. You add x² to a regression of points per game on time on ice and its coefficient comes out
-   positive. Say in words what that means for the 11th minute against the 21st.
+1. A regression predicts an NHL forward's points per game from his average minutes on ice and
+   those minutes squared. The coefficient on the squared term is positive. How does the
+   points gained from one more minute at 10 minutes compare with one more minute at 20?
 
 2. A quadratic fit of a player's output on his ice time bottoms out at eight minutes and climbs
    below that. What three things should decide whether you keep the curve, change the degree,
