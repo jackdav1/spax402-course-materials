@@ -16,13 +16,8 @@
    predicts 40 time from weight lets you say which one is faster for his size. How could you
    transform that number to be easier for a coach to interpret?
 
-4. Explain what an interaction term lets a model say that the model without it cannot. If its
-   coefficient comes out negative, are the two variables synergistic or antagonistic, and what
-   does that say about having both compared with the sum of each alone? Give an example from
-   any sport.
-
-5. A variable has four categories. How many dummy variables go into the regression, what is the
+4. A variable has four categories. How many dummy variables go into the regression, what is the
    reference category, and what does each dummy's coefficient measure?
 
-6. Players who get more minutes score more per game. Why does that curve not tell a coach what
+5. Players who get more minutes score more per game. Why does that curve not tell a coach what
    would happen if he gave a bench player more minutes?
