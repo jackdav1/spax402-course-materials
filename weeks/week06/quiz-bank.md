@@ -12,9 +12,9 @@
    at 8. Name the three checks you would run before keeping this curve, and what result of each
    would make you drop it.
 
-3. Two combine prospects weigh 165 and 341 pounds. Explain how a regression of 40 time on
-   weight lets you say which one is faster for his size, and how you would turn that into a
-   number a coach can read.
+3. Two combine prospects weigh 165 and 341 pounds. Explain how a residual from a model that
+   predicts 40 time from weight lets you say which one is faster for his size. How could you
+   transform that number to be easier for a coach to interpret?
 
 4. Explain what an interaction term lets a model say that the model without it cannot. If its
    coefficient comes out negative, are the two variables synergistic or antagonistic, and what
