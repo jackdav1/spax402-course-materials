@@ -6,11 +6,13 @@
 1. What is the difference between exploratory and explanatory analysis? Which one belongs in
    front of a coach or general manager?
 
-2. Which format gives you the most control over what the audience sees and when, but holds the
-   least detail? Which gives the reader the most detail but the least control? Where do a
-   narrated video and a dashboard fall?
-   <!-- The student should place a live presentation, an emailed report or spreadsheet, a
-        narrated video and a dashboard. If they only name two, ask about the other two. -->
+2. We charted five formats: a live presentation, a narrated video, a document or one-pager, a
+   dashboard and a chatbot. Which gives you the most control over what the audience sees and
+   when, but holds the least detail? Which gives the reader the most detail but the least
+   control? Where do the others fall?
+   <!-- Exact placement doesn't matter; the direction does. Live presentation and narrated video
+        sit at the high-control, low-detail end; dashboard and chatbot at the high-detail,
+        low-control end; the document in between. If they place only two, ask about the rest. -->
 
 3. When is a dashboard a better choice than a narrated video, and when is the video better?
    <!-- Probe both directions: an audience with only a few minutes, and a presenter who wants
