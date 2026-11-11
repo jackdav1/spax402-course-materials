@@ -22,19 +22,16 @@
         how a drive ended when predicting a play in the middle of it. Push for why it inflates
         accuracy, and how they would catch it: ask when each column becomes known. -->
 
-4. When would you optimize for recall instead of precision? Give an example from sports.
+4. When would you optimize for recall instead of precision? Give an example.
    <!-- Recall when missing a real positive is the costly mistake (a screening test, flagging
         an athlete at risk); precision when a false alarm is the costly mistake (spam,
         benching a player on a false flag). Their example should name which error costs more
         and to whom. -->
 
-5. How is a random forest different from a single decision tree, and why does it usually do
-   better on new data?
-   <!-- Many trees, each grown on a random sample of the rows and considering a random subset
-        of columns at each split, voting. Each tree overfits in its own way, and the vote
-        averages much of that out. The cost is a model you can't draw as one set of rules. -->
-
-6. What is a false positive in a model that predicts called strikes? What is a false negative?
-   <!-- With strike as the positive class: a false positive is a pitch the model calls a
-        strike that the umpire called a ball (Type 1); a false negative is a pitch the model
-        calls a ball that the umpire called a strike (Type 2). -->
+5. What is one advantage of a single decision tree over a random forest? What is one
+   advantage of a random forest over a single decision tree?
+   <!-- Tree: a coach can read it (a few yes or no questions you can draw and check), and it
+        is cheap to train and run. Forest: it usually predicts better on new data because the
+        vote averages out each tree's overfitting, and it gives a graded probability (the share
+        of trees voting yes) instead of a deep tree's 0% or 100%. The cost is that you can't
+        read 100 trees; you look inside with permutation importance instead. -->
